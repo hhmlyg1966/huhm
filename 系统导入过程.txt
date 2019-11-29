@@ -1,0 +1,14 @@
+myeclipse中新建web项目，shopping
+在src中导入shopping项目source文件夹中所有内容，导入webroot文件夹中所有内容
+修改dbconfig.properties文件中user为hhh
+
+
+在navicat中创建数据库online_book_ms
+导入数据表及其数据
+新建user，名称为hhh，密码123，添加权限
+
+
+myeclipse中部署项目，运行
+键入URL:
+http://desktop-ppng2u0:8080/shopping/login.jsp
+用户名test    密码123
